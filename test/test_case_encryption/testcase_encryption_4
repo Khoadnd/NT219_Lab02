@@ -1,0 +1,10 @@
+1
+2
+../plain.txt
+2
+../AES_key.key
+1
+../AES_iv.iv
+4
+1
+../cipher.bin
